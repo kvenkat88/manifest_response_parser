@@ -1,4 +1,4 @@
-url = ["https://ccr.linear-nat-pil-red.xcr.comcast.net/ZEETV_HD_NAT_25372_0_5671566327352803163.m3u8","https://ccr.linear-nat-pil-red.xcr.comcast.net/WLLWD_HD_NAT_25076_0_9020662125201164163.m3u8"]
+url = []
 
 
 #https://stackoverflow.com/questions/10588644/how-can-i-see-the-entire-http-request-thats-being-sent-by-my-python-application
